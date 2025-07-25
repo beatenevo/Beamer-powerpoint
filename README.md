@@ -10,6 +10,9 @@ e-mail:liuqimathlcu@163.com
 
 仿照 LaTeX Beamer 风格设计的PPT模板，以供那些懒得用overleaf，不会用latex的朋友的使用。
 
+预览图如下：
+![example](example.png)
+
 Beamer里如remark啥的都包含在里了，同时极具创造性的打造第三页，见beamer.pptx的第三页。
 
 使用场景：学术汇报，赛事题解等等。
